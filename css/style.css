@@ -22,7 +22,7 @@ body {
 /* Typeography General*/
 h1 {
     font-family: 'Fira Sans', sans-serif;
-    font-size: 10em;
+    font-size: 3em;
     margin: 2em 1rem;
 }
 
@@ -91,6 +91,7 @@ section {
     margin-right: 1.8em;
     flex-direction: row;
     justify-content: flex-end;
+    font-size: 10px;
 }
 
 .navbar__menu .menu__link {
