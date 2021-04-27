@@ -35,7 +35,7 @@ const docFrag = document.createDocumentFragment();
 
 const navigation = document.getElementById("navbar__list");
 const sections = document.querySelectorAll('section');
-forEach(section => {
+sections.forEach(section => {
   const docFrag=document.createDocumentFragment();
   const navItem = document.createElement("li");
   const navItemLink = document.createElement("a");
@@ -45,14 +45,20 @@ forEach(section => {
   navItem.appendChild(navItemLink);
   docFrag.appendChild(navItem);
   navigation.appendChild(docFrag);
+  navItem.addEventListener("click",  function (e){
+    e.preventDefault();
+    section.scrollIntoView({
+      behavior:"smooth",
+      block: "start"
 })
 
-document.getElementById("navbar_list").addEventListener("click") ({
-	sections:scrollIntoView({
+document.getElementById("navbar__list").addEventListener("click",  function (){
+  section.scrollIntoView({
 		behavior:"smooth",
 		block: "start"
 	})
 })
+
 	
 
 // // }
