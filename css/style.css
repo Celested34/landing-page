@@ -54,8 +54,10 @@ main {
 }
 
 .main-hero {
-    min-height: 40vh;
-    padding-top: 1em;
+    width: 15em;
+    height: 15em;
+    /* min-height: 40vh;
+    padding-top: m; */
 }
 
 /*Yogurt Picture*/
