@@ -94,7 +94,6 @@ section {
 }
 
 .navbar__menu li {
-    display: inline-block;
     display: flex;
     margin-right: 1.8em;
     flex-direction: row;
