@@ -82,7 +82,7 @@ section {
 
 .navbar__menu ul {
     padding-left: 0;
-    margin: 0;
+    /* margin: 0; */
 }
 
 .navbar__menu li {
@@ -90,7 +90,6 @@ section {
     margin-right: 1.8em;
     flex-direction: row;
     justify-content: flex-end;
-    /* font-size: 5em; */
 }
 
 .navbar__menu .menu__link {
