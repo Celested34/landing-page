@@ -51,7 +51,6 @@ sections.forEach(section => {
       behavior:"smooth",
       block: "start"
 })
-
 document.getElementById("navbar__list").addEventListener("click",  function (){
   section.scrollIntoView({
 		behavior:"smooth",
