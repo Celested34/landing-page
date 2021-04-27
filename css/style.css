@@ -107,7 +107,7 @@ section {
     transition: ease 0.3s all;
 }
 
-.navbar_list {
+#navbar_list {
     list-style-type: none;
     display: none;
   }
