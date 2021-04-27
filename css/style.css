@@ -80,6 +80,12 @@ section {
 
 /* Navigation Styles*/
 
+.nav-list {
+    display: flex;
+    margin-right: 1.8em;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
 
 .navbar__menu ul {
     padding-left: 0;
