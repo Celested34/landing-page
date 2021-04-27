@@ -97,6 +97,8 @@ section {
     font-weight: bold;
     text-decoration: none;
     color: #000;
+    align-content: space-between;
+    justify-content: space-between;
 }
 
 .navbar__menu .menu__link:hover {
