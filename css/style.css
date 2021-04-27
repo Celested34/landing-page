@@ -22,7 +22,7 @@ body {
 /* Typeography General*/
 h1 {
     font-family: 'Fira Sans', sans-serif;
-    font-size: 3em;
+    font-size: 10em;
     margin: 2em 1rem;
 }
 
@@ -106,11 +106,6 @@ section {
     color: #fff;
     transition: ease 0.3s all;
 }
-
-#navbar_list li {
-    text-align: center;
-    margin: 0.8em auto;
-  }
 
 /* Header Styles */
 .page__header {
