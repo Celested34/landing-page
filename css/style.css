@@ -102,9 +102,9 @@ section {
     transition: ease 0.3s all;
 }
 
-.your-active-class{
+/* .your-active-class{
     font-size: 5px;
-}
+} */
 
 /* Header Styles */
 .page__header {
