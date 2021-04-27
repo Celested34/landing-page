@@ -107,6 +107,11 @@ section {
     transition: ease 0.3s all;
 }
 
+.navbar_list {
+    list-style-type: none;
+    display: none;
+  }
+
 /* Header Styles */
 .page__header {
     background: #F2FFFFFF;
