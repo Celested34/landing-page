@@ -55,7 +55,7 @@ main {
 
 .main-hero {
     min-height: 40vh;
-    padding-top: 3em;
+    padding-top: 5em;
 }
 
 /*Yogurt Picture*/
@@ -79,13 +79,6 @@ section {
 /* ---- Module Rules ---- */
 
 /* Navigation Styles*/
-
-/* .nav-list {
-    display: flex;
-    margin-right: 1.8em;
-    flex-direction: row;
-    justify-content: flex-end;
-  } */
 
 .navbar__menu ul {
     padding-left: 0;
