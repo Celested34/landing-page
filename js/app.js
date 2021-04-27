@@ -27,7 +27,7 @@
 
 // const navBar = document.getElementById("navBar_list")
 
-const section = document.querySelectorAll("section")
+const section = document.querySelectorAll("section");
 
 const docFrag = document.createDocumentFragment();
 
