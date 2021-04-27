@@ -88,7 +88,7 @@ section {
 }
 
 .navbar__menu li {
-    display: inline;
+    display: flex;
     align-content: space-between;
     justify-content: space-between;
 }
