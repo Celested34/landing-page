@@ -34,7 +34,7 @@ const docFrag = document.createDocumentFragment();
 // Adapted from an answer on the knoweldge, questions and answers section
 
 const navigation = document.getElementById("navbar__list");
-const sections = document.querySelectorAll('section');
+const sections = document.querySelectorAll("section");
 sections.forEach(section => {
   const docFrag=document.createDocumentFragment();
   const navItem = document.createElement("li");
