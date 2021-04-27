@@ -82,15 +82,13 @@ section {
 
 
 .navbar__menu ul {
-
+    padding-left: 0;
+    margin: 0;
     text-align: right;
-    display: flex;
-    justify-content: center;
 }
 
 .navbar__menu li {
-    display: flex;
-    font-size: 30px;
+    display: inline
 }
 
 .navbar__menu .menu__link {
