@@ -25,7 +25,7 @@
  * 
 */
 
-const navBar = document.getElementById("navBar_list")
+// const navBar = document.getElementById("navBar_list")
 
 const section = document.querySelectorAll("section")
 
