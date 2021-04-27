@@ -83,7 +83,7 @@ section {
 .navbar__menu ul {
     padding-left: 0;
     margin: 0;
-    text-align: right;
+    /* text-align: right; */
 }
 
 .navbar__menu li {
@@ -110,7 +110,6 @@ section {
 
 .your-active-class{
     font-size: 10px;
- 
 }
 /* Header Styles */
 .page__header {
