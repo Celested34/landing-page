@@ -49,19 +49,17 @@ p {
 
 
 /* ---- Layout Rules ---- */
-main {
-    margin: 10vh 1em 10vh;
-}
 
-.main_hero {
+
+/* .main_hero {
     width: 15px;
     height: 15px;
     /* min-height: 40vh;
     padding-top: m; */
-}
+} */
 
 /*Yogurt Picture*/
-/* .yogurtwberries {
+.yogurtwberries {
     width: 15em;
     height: 15em;
     display: block;
@@ -69,7 +67,7 @@ main {
     margin-right:auto;
     margin-bottom: auto;
     margin-top: auto;
-} */
+}
     
 
 section {
