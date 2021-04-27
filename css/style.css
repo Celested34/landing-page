@@ -107,9 +107,9 @@ section {
     transition: ease 0.3s all;
 }
 
-#navbar_list {
-    list-style-type: none;
-    display: none;
+#navbar_list li {
+    text-align: center;
+    margin: 0.8em auto;
   }
 
 /* Header Styles */
