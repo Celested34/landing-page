@@ -50,13 +50,11 @@ p {
 
 /* ---- Layout Rules ---- */
 
-
-/* .main_hero {
+.main_hero {
     width: 15px;
     height: 15px;
     min-height: 15px;
-    
-}
+} 
 
 /*Yogurt Picture*/
 #yogurtwberries {
