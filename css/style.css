@@ -54,14 +54,14 @@ p {
 .main_hero {
     width: 15px;
     height: 15px;
-    min-height: 40vh;
+    min-height: 15px;
     
 }
 
 /*Yogurt Picture*/
 .yogurtwberries {
-    width: 1em;
-    height: 1em;
+    width: 15px;
+    height: 15px;
     display: block;
     margin-left: auto;
     margin-right:auto;
