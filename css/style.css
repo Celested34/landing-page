@@ -51,12 +51,12 @@ p {
 /* ---- Layout Rules ---- */
 
 
-/* .main_hero {
+.main_hero {
     width: 15px;
     height: 15px;
-    /* min-height: 40vh;
-    padding-top: m; */
-} */
+    min-height: 40vh;
+    
+}
 
 /*Yogurt Picture*/
 /* .yogurtwberries {
