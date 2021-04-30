@@ -57,11 +57,10 @@ p {
 } 
 
 /*Yogurt Picture*/
-/* .yogurtwberries {
-    width: 30px;
-    height: 30px;
+.yogurtwberries {
+    width: 30%;
+    height: auto;
 } 
-     */
 
 section {
     position: relative;
