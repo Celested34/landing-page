@@ -84,10 +84,6 @@ section {
     transition: ease 0.3s all;
 }
 
-.landing__container {
-    color: aqua;
-}
-
 /* Header Styles */
 .page__header {
     background: #F2FFFFFF;
