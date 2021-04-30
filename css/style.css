@@ -54,6 +54,7 @@ p {
 .yogurtwberries {
     width: 30px;
     height: auto;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 } 
