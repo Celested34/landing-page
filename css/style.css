@@ -84,9 +84,9 @@ section {
     transition: ease 0.3s all;
 }
 
-/* .your-active-class{
-    font-size: 5px;
-} */
+.your-active-class {
+    color:blue;
+}
 
 /* Header Styles */
 .page__header {
