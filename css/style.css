@@ -84,8 +84,8 @@ section {
     transition: ease 0.3s all;
 }
 
-.your-active-class {
-    color:blue;
+.landing__container {
+    color: aqua;
 }
 
 /* Header Styles */
