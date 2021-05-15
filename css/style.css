@@ -87,12 +87,7 @@ section {
   }
   
   /* ---- */
-  .underscore {
-    text-decoration: underline;
-    cursor: pointer;
-    background-color: black;
-    padding: 10px;
-  }
+  
   #navbar__list {
     display: flex;
     grid-area: nv;

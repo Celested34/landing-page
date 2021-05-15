@@ -59,7 +59,13 @@ document.getElementById("navbar__list").addEventListener("click",  function (){
 		behavior:"smooth",
 		block:"start"
 	})
+}]
 
+newElementsArray.forEach(function (sec, index) {
+
+  sec.addEventListener("click", function () {
+      landingContainer[index].scrollIntoView({ behavior: "smooth" });
+  })
   section.addEventListener("mouseover", function () {
     section.classList.add('hover')
   })
