@@ -78,7 +78,7 @@ section {
     color: #000;
 }
 
-.navbar__list:hover {
+#navbar__list:hover {
     background: #333;
     color: #fff;
     transition: ease 0.3s all;
