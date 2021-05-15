@@ -61,9 +61,9 @@ document.getElementById("navbar__list").addEventListener("click",  function (){
 	})
 })
 
-newElementsArray.forEach(function (sec, index) {
+newElementsArray.forEach(function (section, index) {
 
-  sec.addEventListener("click", function () {
+  section.addEventListener("click", function () {
       landingContainer[index].scrollIntoView({ behavior: "smooth" });
   })
   section.addEventListener("mouseover", function () {
