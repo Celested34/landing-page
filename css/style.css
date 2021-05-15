@@ -86,8 +86,38 @@ section {
     transition: ease 0.3s all;
   }
   
-
-
+  /* ---- */
+  .underscore {
+    text-decoration: underline;
+    cursor: pointer;
+    background-color: black;
+    padding: 10px;
+  }
+  #navbar__list {
+    display: flex;
+    grid-area: nv;
+    background-color: #007791;
+    height: auto;
+    overflow: hidden;
+    position: fixed;
+    flex-direction: row;
+    top: 0;
+    width: 100%;
+    align-items: center;
+  }
+  .hover {
+    cursor: pointer;
+  }
+  #navbar__list > li {
+    margin-right: 25px;
+    padding: 20px;
+  }
+  .topNav {
+    justify-content: center;
+  
+    margin-bottom: 20px;
+    /* border: 15px red dotted; */
+  }
 
 /* Header Styles */
 .page__header {
