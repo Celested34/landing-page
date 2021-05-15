@@ -63,12 +63,6 @@ section {
 /* Navigation Styles*/
 
 
-.navbar__menu li {
-    display: flex;
-    margin-right: 1.8em;
-    flex-direction: row;
-    justify-content: flex-end;
-}
 
 
 /* Header Styles */
