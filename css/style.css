@@ -113,12 +113,7 @@ section {
     margin-right: 25px;
     padding: 20px;
   }
-.topNav {
-    justify-content: center;
-  
-    margin-bottom: 20px;
-    /* border: 15px red dotted; */
-  }
+
 
 /* Header Styles */
 .page__header {
