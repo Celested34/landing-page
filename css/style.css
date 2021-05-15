@@ -100,7 +100,7 @@ section {
     background-color: lightblue;
     height: auto;
     overflow: hidden;
-    position: static;
+    position: fixed;
     flex-direction: column;
     top: 0;
     width: 100%;
