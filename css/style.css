@@ -96,7 +96,7 @@ section {
   
 #navbar__list {
     display: flex;
-    grid-area: nv;
+    grid-area: auto;
     background-color: #007791;
     height: auto;
     overflow: hidden;
