@@ -60,8 +60,12 @@ document.getElementById("navbar__list").addEventListener("click",  function (){
 		block:"start"
 	})
 
-  sec.addEventListener("mouseover", function () {
-    sec.classList.add('hover')
+  section.addEventListener("mouseover", function () {
+    section.classList.add('hover')
+  })
+
+  section.addEventListener("mouseout", function () {
+    section.classList.remove('hover')
   })
 })
 	
