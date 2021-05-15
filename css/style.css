@@ -101,7 +101,7 @@ section {
     height: auto;
     overflow: hidden;
     position: fixed;
-    flex-direction: row;
+    flex-direction: column;
     top: 0;
     width: 100%;
     align-items: center;
