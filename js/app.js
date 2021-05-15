@@ -59,7 +59,7 @@ document.getElementById("navbar__list").addEventListener("click",  function (){
 		behavior:"smooth",
 		block:"start"
 	})
-}]
+})
 
 newElementsArray.forEach(function (sec, index) {
 
