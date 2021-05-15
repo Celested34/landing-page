@@ -110,7 +110,7 @@ section {
     cursor: pointer;
   }
 #navbar__list > li {
-    margin-right: 25px;
+    margin-left: 25px;
     padding: 20px;
   }
 
