@@ -59,8 +59,11 @@ document.getElementById("navbar__list").addEventListener("click",  function (){
 		behavior:"smooth",
 		block:"start"
 	})
-})
 
+  sec.addEventListener("mouseover", function () {
+    sec.classList.add('hover')
+  })
+})
 	
 
 // // }
